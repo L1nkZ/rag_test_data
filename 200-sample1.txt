@@ -1,0 +1,20 @@
+# path, size, crc32
+data/file1.bin 1024 783560633
+data/file2.bin 1048576 691970299
+data/file3.bin 102400 3760370808
+data/file4.bin 512000 428410892
+
+data/subfolder1/file1.bin 1024 783560633
+data/subfolder1/file2.bin 1048576 691970299
+data/subfolder1/file3.bin 102400 3760370808
+data/subfolder1/file4.bin 512000 428410892
+
+data/subfolder2/file1.bin 1024 783560633
+data/subfolder2/file2.bin 1048576 691970299
+data/subfolder2/file3.bin 102400 3760370808
+data/subfolder2/file4.bin 512000 428410892
+
+data/subfolder1/subsubfolder1/file1.bin 1024 783560633
+data/subfolder1/subsubfolder1/file2.bin 1048576 691970299
+data/subfolder1/subsubfolder1/file3.bin 102400 3760370808
+data/subfolder1/subsubfolder1/file4.bin 512000 428410892
