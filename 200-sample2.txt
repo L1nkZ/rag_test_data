@@ -1,0 +1,4 @@
+# path, size, crc32
+data/UTC16.TGA 41527 333856379
+data/texture/FLAG_B24.BMP 46182 2592258077
+data/sprite/¸ó½ºÅÍ/GASPRA.FLI 39322 1212786890
